@@ -1,0 +1,2 @@
+# Gene-Expression-Patterns-in-Stem-Cell-Based-Neuronal-Differentiation
+ single-cell transcriptome dataset of BMC mesenchymal stem cells undergoing neuron differentiation to create a Seurat object, and an embryonic stem cell dataset undergoing neural differentiation four interval days (0th day, 7th day, 13th day, and 20th day) is also included to create a Seurat object. Each Seurat object preprocessing and DESeq2
